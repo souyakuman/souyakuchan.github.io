@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: 効かない薬はただの粉
+name: Go? No Go?
 
 # Short bio or description (displayed in the header)
 description: souyakuchan's lab notebook
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: souyakuchan
+  github: 
   instagram:
   linkedin:
   pinterest:
