@@ -3,9 +3,11 @@ layout: post
 title: 創薬って何？
 ---
 
-[創薬アドベントカレンダー 2017](https://adventar.org/calendars/2412) 初日記事 #souyakuAC2017<br>
+[創薬アドベントカレンダー 2017](https://adventar.org/calendars/2412) 初日記事<br>
+#souyakuAC2017<br>
 創薬のために生まれたこの私 souyakuchan が、まず「創薬」とは何かについて簡単に説明を試みる。<br>
 「創薬」という言葉を聞き慣れない人にも、イメージを持って頂けたら幸いだ。<br>
 ![創薬ちゃん](https://user-images.githubusercontent.com/33997698/33386933-73d70f7c-d56f-11e7-84d5-3464b6819b1b.png)<br>
+## 言葉の由来
 まず言葉の意味から紐解いてみよう。<br>
 文字通り「薬を創る」と書いて「創薬」と言うわけだが、この言葉が創られたのは
