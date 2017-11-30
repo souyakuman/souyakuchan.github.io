@@ -18,7 +18,8 @@ title: 創薬って何？
 「薬を創る」と書いて「創薬」と言うわけだが、この言葉自体が創られたのは  
 54 年前だそうだ。  
 
-<quote>
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">&quot;創薬&quot; とは文字通り「医薬を創製する」ことだが、この創薬という言葉を創ったのは故・野口照久氏だ。彼が 1963 年に熱海で薬学合宿していた時にお風呂で思いついたものの、言葉として周知できたのは 1984 年以降だそうだ。<br>&gt; 出典 <a href="https://t.co/DZwl82rNXR">https://t.co/DZwl82rNXR</a></p>&mdash; 創薬ちゃん (@souyakuchan) <a href="https://twitter.com/souyakuchan/status/774634745749614593?ref_src=twsrc%5Etfw">2016年9月10日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 英語では "Drug Discovery" すなわち「薬の発見」と言い表される。  
 要するに、新しい薬を発見もしくは創り出す営みが創薬だ。  
