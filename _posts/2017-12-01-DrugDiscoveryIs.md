@@ -4,7 +4,7 @@ title: 創薬って何？
 ---
 
 [創薬アドベントカレンダー 2017](https://adventar.org/calendars/2412) 初日記事  
-#souyakuAC2017  
+[#souyakuAC2017](https://twitter.com/search?q=%23souyakuAC2017)  
   
 創薬のために生まれたこの私 souyakuchan が、まず「創薬」とは何かについて  
 簡単に説明を試みておく。
@@ -22,7 +22,7 @@ title: 創薬って何？
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 英語では "Drug Discovery" すなわち「薬の発見」と言い表される。  
-要するに、新しい薬を発見もしくは創り出す営みが創薬だ。  
+要するに創薬とは、新しい薬を発見もしくは創り出す営みのことだ。  
 
 
 ## 例
