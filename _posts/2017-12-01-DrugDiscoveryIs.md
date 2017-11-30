@@ -6,8 +6,8 @@ title: 創薬って何？
 [創薬アドベントカレンダー 2017](https://adventar.org/calendars/2412) 初日記事  
 [#souyakuAC2017](https://twitter.com/search?q=%23souyakuAC2017)  
   
-創薬のために生まれたこの私 souyakuchan が、まず「創薬」とは何かについて  
-簡単に説明を試みておく。
+創薬のために生まれたこの私 souyakuchan が、まず「創薬」とは何かについて簡単に  
+説明を試みておく。
   
 創薬という言葉を聞き慣れない方にも、なんとなくイメージを持って頂けたら幸いだ。  
   
@@ -26,7 +26,9 @@ title: 創薬って何？
 
 
 ## 例
-身近で有名な例をいくつか出しておこう。  
+例をいくつか出しておこう。  
+
+<a class="twitter-moment" href="https://twitter.com/i/moments/839516326704009216?ref_src=twsrc%5Etfw">抗マラリア薬</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">流行りの Pokémon GO をやってみたが、ポケモンより道端の土が気になってしまうな。ちなみに 2015 年にノーベル賞を獲った大村智先生は伊東市の川奈ゴルフ場の土から GET した放線菌という細菌から抗寄生虫薬を発見したんだ。 <a href="https://t.co/QsmTHPwZYh">pic.twitter.com/QsmTHPwZYh</a></p>&mdash; 創薬ちゃん (@souyakuchan) <a href="https://twitter.com/souyakuchan/status/762517894097833985?ref_src=twsrc%5Etfw">2016年8月8日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
