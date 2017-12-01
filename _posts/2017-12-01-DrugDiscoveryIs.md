@@ -56,7 +56,7 @@ title: 創薬って何？
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="ja"><p lang="ja" dir="ltr">Apo 体の PD-1（緑: 3RRQ.PDB）にリガンドである PD-L1（水色）が結合して holo 体の構造（ピンク: 4ZQK.PDB）に変化する様子だ。この構造変化によって免疫チェックポイントシグナル伝達が起こるんだろうな <a href="https://t.co/eTnXHFnwkZ">pic.twitter.com/eTnXHFnwkZ</a></p>&mdash; 創薬ちゃん (@souyakuchan) <a href="https://twitter.com/souyakuchan/status/769181201995173894?ref_src=twsrc%5Etfw">2016年8月26日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
 [免疫チェックポイント⚡@souyakuchan](https://twitter.com/i/moments/781891882578092032)  
-  
+
 この創薬標的は、現在は抗体による介入が治療の主流となっている。  
 
 
