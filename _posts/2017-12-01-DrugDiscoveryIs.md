@@ -60,15 +60,15 @@ title: 創薬って何？
 [免疫チェックポイント⚡@souyakuchan](https://twitter.com/i/moments/781891882578092032)  
 
 この創薬標的に関しては、今のところ抗体による介入が主流となっている。<br>
-現代の創薬においては低分子化合物に限らない様々な手段が駆使されている。
+現代の創薬においては低分子化合物に限らない様々な手段が駆使されているんだ。
 
 ## 創薬標的
 必要性があるからこそ薬は創られる。<br>
 すなわち、疾患や病的状態の治療、もしくは生理機能の改善のための営みが創薬だ。<br>
 治療対象としたい疾患の発生機序において、薬によって介入することで治療効果が<br>
 見込める分子が存在する場合、その当該分子を「創薬標的」と称する。<br>
-例えば先述の抗インフルエンザ薬で言えば、ウイルスを細胞から切り離して撒き散らす機能を持つ<br>
-ノイラミニダーゼという酵素が創薬標的（薬で機能を阻害すべき対象）となっている。<br>
+例えば先述の抗インフルエンザ薬で言えば、ウイルスを細胞から切り離して撒き散らす<br>
+機能を持つノイラミニダーゼという酵素が創薬標的（薬で機能を阻害すべき対象）だ。<br>
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="ja"><p lang="ja" dir="ltr">低分子（もしくは生物学的製剤）によって創薬標的に介入可能である場合、その標的は「ドラッガブル (druggable)」であると言う。低分子が結合できるような窪み・ポケット構造があるかどうかという意味で使われることが多いかな。酵素は大抵、活性部位が凹んでいるから低分子で狙いやすい。</p>&mdash; 創薬ちゃん (@souyakuchan) <a href="https://twitter.com/souyakuchan/status/783588612377972737?ref_src=twsrc%5Etfw">2016年10月5日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 創薬とは、<br>
@@ -76,7 +76,7 @@ title: 創薬って何？
 と言い換えることもできるだろう。<br>
 <br>
 ただし、疾患の発生機序に関わっていそうな分子であるからといって、それが必ずしも<br>
-実際に創薬標的となりうるわけではない。
+実際に創薬標的となりうるわけではないので、標的ごとに慎重な検討が必要不可欠だ。
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="ja"><p lang="ja" dir="ltr">・その標的に介入すれば薬効が期待できるか<br>・介入してしまっても問題は起きないか<br>・そもそもその標的に薬で介入可能か (druggability)<br>といった事項を検証することを、&quot;ターゲットバリデーション&quot; と呼ぶ。そこをしっかりしておかないと、後で困るぞ。</p>&mdash; 創薬ちゃん (@souyakuchan) <a href="https://twitter.com/souyakuchan/status/783589131741900800?ref_src=twsrc%5Etfw">2016年10月5日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -106,9 +106,10 @@ title: 創薬って何？
 開発失敗した場合の損失は多大なものであり、開発フェーズが進むほど失敗時の<br>
 ダメージは大きくなる。<br>
 見込みのないプロジェクトからは極力早期に撤退したほうが傷が浅く済むので、<br>
-「プロジェクトを先に進めるか否か」の判断を
+要所要所で「プロジェクトを先に進めるか否か (Go / No GO)」の適切な判断を迫られる。<br>
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="ja"><p lang="ja" dir="ltr">今や１つの新薬を研究開発・上市するまでには、治験費用を含め数千億円かかるとされている。極力早い段階で Go / No Go 判断を適切に下すことで、失敗した場合の痛手を少なくすることが大事だ。</p>&mdash; 創薬ちゃん (@souyakuchan) <a href="https://twitter.com/souyakuchan/status/797086401107927040?ref_src=twsrc%5Etfw">2016年11月11日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ![Go? No Go?](https://user-images.githubusercontent.com/33997698/33484741-fa9a3390-d6e6-11e7-97ef-1beae1e0ecb4.png)
-
+創薬をやるかやらないか？<br>
+それは Go! しかないだろう。
