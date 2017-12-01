@@ -39,7 +39,7 @@ title: 創薬って何？
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">流行りの Pokémon GO をやってみたが、ポケモンより道端の土が気になってしまうな。ちなみに 2015 年にノーベル賞を獲った大村智先生は伊東市の川奈ゴルフ場の土から GET した放線菌という細菌から抗寄生虫薬を発見したんだ。 <a href="https://t.co/QsmTHPwZYh">pic.twitter.com/QsmTHPwZYh</a></p>&mdash; 創薬ちゃん (@souyakuchan) <a href="https://twitter.com/souyakuchan/status/762517894097833985?ref_src=twsrc%5Etfw">2016年8月8日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
 
-寄生虫疾患における天然物創薬での日本人のノーベル賞受賞も記憶に新しい。  
+寄生虫疾患における天然物創薬での日本人のノーベル賞受賞も記憶に新しい。<br>
 自然の中での採集活動と多大な労力による研究開発の賜物だ。  
 
 ### 抗インフルエンザ薬
@@ -49,7 +49,7 @@ title: 創薬って何？
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
 [抗インフルエンザ薬⚡@souyakuchan](https://twitter.com/i/moments/835014300129353728)  
   
-一方これは生体内に存在する物質をもとに改造して薬を設計した例だ。  
+一方これは生体内に存在する物質をもとに改造を施して薬を設計した例だ。  
 
 このように低分子化合物の薬剤は、標的とするタンパク質の表面の<br>
 くぼみにピッタリはまり込むことで効果を発揮する。  
@@ -60,10 +60,12 @@ title: 創薬って何？
 [免疫チェックポイント⚡@souyakuchan](https://twitter.com/i/moments/781891882578092032)  
 
 この創薬標的に関しては、抗体による介入が主流となっている。<br>
-低分子化合物に限らないのが現代の創薬だ。
+現代の創薬においては低分子化合物に限らない様々な手段が駆使される。
 
-## Unmet Medical Needs
-
+## 創薬標的
+必要性があるからこそ薬は創られる。<br>
+すなわち、疾患・病的状態
+### Unmet Medical Needs
 
 ## 創薬の種類
 
