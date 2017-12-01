@@ -47,8 +47,8 @@ title: 創薬って何？
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
 [抗インフルエンザ薬⚡@souyakuchan](https://twitter.com/i/moments/835014300129353728)  
   
-一方これは生体内に存在する物質をもとに改造して薬を設計した例だ。
-
+一方これは生体内に存在する物質をもとに改造して薬を設計した例だ。  
+  
 このように低分子化合物の薬剤は、標的とするタンパク質の表面の  
 くぼみにピッタリはまり込むことで効果を発揮する。  
 
