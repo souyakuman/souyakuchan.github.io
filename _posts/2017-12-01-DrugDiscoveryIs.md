@@ -35,6 +35,7 @@ title: 創薬って何？
 [抗マラリア薬⚡@souyakuchan](https://twitter.com/i/moments/839516326704009216)  
   
 抗マラリア薬は自然界から発見された薬の古典的代表例と言えるだろう。  
+  
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">流行りの Pokémon GO をやってみたが、ポケモンより道端の土が気になってしまうな。ちなみに 2015 年にノーベル賞を獲った大村智先生は伊東市の川奈ゴルフ場の土から GET した放線菌という細菌から抗寄生虫薬を発見したんだ。 <a href="https://t.co/QsmTHPwZYh">pic.twitter.com/QsmTHPwZYh</a></p>&mdash; 創薬ちゃん (@souyakuchan) <a href="https://twitter.com/souyakuchan/status/762517894097833985?ref_src=twsrc%5Etfw">2016年8月8日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
 
@@ -51,7 +52,7 @@ title: 創薬って何？
   
 このように低分子化合物の薬剤は、標的とするタンパク質の表面の  
 くぼみにピッタリはまり込むことで効果を発揮する。  
-
+  
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="ja"><p lang="ja" dir="ltr">Apo 体の PD-1（緑: 3RRQ.PDB）にリガンドである PD-L1（水色）が結合して holo 体の構造（ピンク: 4ZQK.PDB）に変化する様子だ。この構造変化によって免疫チェックポイントシグナル伝達が起こるんだろうな <a href="https://t.co/eTnXHFnwkZ">pic.twitter.com/eTnXHFnwkZ</a></p>&mdash; 創薬ちゃん (@souyakuchan) <a href="https://twitter.com/souyakuchan/status/769181201995173894?ref_src=twsrc%5Etfw">2016年8月26日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
 [免疫チェックポイント⚡@souyakuchan](https://twitter.com/i/moments/781891882578092032)  
