@@ -93,7 +93,7 @@ title: 創薬って何？
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 [Eroom の法則⚡@souyakuchan](https://twitter.com/i/moments/790160629956960256)<br>
   
-しかも開発から上市に至るまでで 10 年単位の期間がかかる。<br>
+しかも開発から上市に至るまでで 10 年単位の時間がかかる。<br>
 莫大な資本を有するメガファーマ（巨大製薬企業）であっても覚悟が要る稼業だ。
 ## Go? No Go?
 最後にブログタイトルを回収しておこう。<br>
@@ -117,4 +117,5 @@ title: 創薬って何？
 創薬をやるかやらないか？<br>
 それは Go! しかないだろう。<br>
 <br>
+効かない薬はただの粉だが、<br>
 効く薬を見つけるのは宝探しのようで楽しいぞ。
