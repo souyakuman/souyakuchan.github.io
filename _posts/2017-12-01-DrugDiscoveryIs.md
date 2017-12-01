@@ -84,9 +84,6 @@ title: 創薬って何？
 ### 低分子
 #### 結合
 
-## 創薬の流れ
-
-
 ## 創薬にかかるお金
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="ja"><p lang="ja" dir="ltr">圧倒的な売上で市場を席巻する薬はブロックバスター (blockbuster drug) と呼ばれる。決まった定義があるわけではないが、１つの製品で 10 億ドルを超える年間売上が目安とされる。画期的新薬として開発費が１年そこそこで回収できてしまうような製品だな。</p>&mdash; 創薬ちゃん (@souyakuchan) <a href="https://twitter.com/souyakuchan/status/774076001730990080?ref_src=twsrc%5Etfw">2016年9月9日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -96,14 +93,26 @@ title: 創薬って何？
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="ja"><p lang="ja" dir="ltr">さっきのレビュー (<a href="https://t.co/TvNGkOSP1h">https://t.co/TvNGkOSP1h</a>) にグラフで示されているが、1950 年代は研究開発費 10 億ドルあたりの新薬上市数は数十個はあったのが、2000 年代には 1 個を切るようになってしまった。今や新薬１つの上市に１千億円では不足ということだ。</p>&mdash; 創薬ちゃん (@souyakuchan) <a href="https://twitter.com/souyakuchan/status/781894123833864193?ref_src=twsrc%5Etfw">2016年9月30日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-[Eroom の法則⚡@souyakuchan](https://twitter.com/i/moments/790160629956960256)
-  
+[Eroom の法則⚡@souyakuchan](https://twitter.com/i/moments/790160629956960256)<br>
 しかも開発から上市に至るまでで 10 年単位の期間がかかるのが創薬だ。<br>
 
 ## Go? No Go?
 最後にブログタイトルを回収しておこう。<br>
 ここまでで述べてきたように、創薬研究開発には莫大な労力・費用・期間がかかる上、<br>
 開発途中でドロップアウトするリスクが常にある。<br>
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="ja"><p lang="ja" dir="ltr">治験の成功率についての総説。裏を返せば、治験に入った薬剤がただの粉になる率の話だ。<br>&gt; Clinical development success rates for investigational drugs <a href="https://t.co/Gl8DyxUqZ3">https://t.co/Gl8DyxUqZ3</a></p>&mdash; 創薬ちゃん (@souyakuchan) <a href="https://twitter.com/souyakuchan/status/797062699947433984?ref_src=twsrc%5Etfw">2016年11月11日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="ja"><p lang="ja" dir="ltr">治験に入った薬は第 I 相、第 II 相、第 III 相試験、そして承認申請を経てのち上市に至る。各フェーズの通過率を ‘Phase Success’、承認に至るまでの率を ‘Likelihood of Approval’ (LOA) と称し、治験薬の成功率が表される。</p>&mdash; 創薬ちゃん (@souyakuchan) <a href="https://twitter.com/souyakuchan/status/797070900524826624?ref_src=twsrc%5Etfw">2016年11月11日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="ja"><p lang="ja" dir="ltr">Phase Success の大まかな数字としては、I → II が６～７割、II → III が３～４割、III → 承認申請 が６～７割、承認申請 → 承認 が８～９割 だそうだ。I 相からの LOA は 10 ~ 15% 程度ということになる。</p>&mdash; 創薬ちゃん (@souyakuchan) <a href="https://twitter.com/souyakuchan/status/797073835489042432?ref_src=twsrc%5Etfw">2016年11月11日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 開発失敗した場合の損失は多大なものであり、開発フェーズが進むほど失敗時の<br>
 ダメージは大きくなる。<br>
 見込みのないプロジェクトからは極力早期に撤退したほうが傷が浅く済むので、<br>
+「プロジェクトを先に進めるか否か」の判断を
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="ja"><p lang="ja" dir="ltr">今や１つの新薬を研究開発・上市するまでには、治験費用を含め数千億円かかるとされている。極力早い段階で Go / No Go 判断を適切に下すことで、失敗した場合の痛手を少なくすることが大事だ。</p>&mdash; 創薬ちゃん (@souyakuchan) <a href="https://twitter.com/souyakuchan/status/797086401107927040?ref_src=twsrc%5Etfw">2016年11月11日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+![Go? No Go?](https://user-images.githubusercontent.com/33997698/33484741-fa9a3390-d6e6-11e7-97ef-1beae1e0ecb4.png)
+
