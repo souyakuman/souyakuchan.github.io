@@ -65,14 +65,16 @@ title: 創薬って何？
 ## 創薬標的
 必要性があるからこそ薬は創られる。<br>
 すなわち、疾患や病的状態の治療、もしくは生理機能の改善のための営みが創薬だ。<br>
+<br>
 治療対象としたい疾患の発生機序において、薬によって介入することで治療効果が<br>
 見込める分子が存在する場合、その当該分子を「創薬標的」と称する。<br>
+<br>
 例えば先述の抗インフルエンザ薬で言えば、ウイルスを細胞から切り離して撒き散らす<br>
 機能を持つノイラミニダーゼという酵素が創薬標的（薬で機能を阻害すべき対象）だ。<br>
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="ja"><p lang="ja" dir="ltr">低分子（もしくは生物学的製剤）によって創薬標的に介入可能である場合、その標的は「ドラッガブル (druggable)」であると言う。低分子が結合できるような窪み・ポケット構造があるかどうかという意味で使われることが多いかな。酵素は大抵、活性部位が凹んでいるから低分子で狙いやすい。</p>&mdash; 創薬ちゃん (@souyakuchan) <a href="https://twitter.com/souyakuchan/status/783588612377972737?ref_src=twsrc%5Etfw">2016年10月5日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 創薬とは、<br>
-創薬標的分子が有する機能に介入するため、標的に特異的に結合する物質を探すこと<br>
+「創薬標的分子が有する機能に介入するため、標的に特異的に結合する物質を探すこと」<br>
 と言い換えることもできるだろう。<br>
 <br>
 ただし、疾患の発生機序に関わっていそうな分子であるからといって、それが必ずしも<br>
@@ -90,8 +92,9 @@ title: 創薬って何？
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="ja"><p lang="ja" dir="ltr">さっきのレビュー (<a href="https://t.co/TvNGkOSP1h">https://t.co/TvNGkOSP1h</a>) にグラフで示されているが、1950 年代は研究開発費 10 億ドルあたりの新薬上市数は数十個はあったのが、2000 年代には 1 個を切るようになってしまった。今や新薬１つの上市に１千億円では不足ということだ。</p>&mdash; 創薬ちゃん (@souyakuchan) <a href="https://twitter.com/souyakuchan/status/781894123833864193?ref_src=twsrc%5Etfw">2016年9月30日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 [Eroom の法則⚡@souyakuchan](https://twitter.com/i/moments/790160629956960256)<br>
-しかも開発から上市に至るまでで 10 年単位の期間がかかるのが創薬だ。<br>
-
+  
+しかも開発から上市に至るまでで 10 年単位の期間がかかる。<br>
+莫大な資本を有するメガファーマ（巨大製薬企業）であっても覚悟が要る稼業だ。
 ## Go? No Go?
 最後にブログタイトルを回収しておこう。<br>
 ここまでで述べてきたように、創薬研究開発には莫大な労力・費用・期間がかかる上、<br>
@@ -106,10 +109,11 @@ title: 創薬って何？
 開発失敗した場合の損失は多大なものであり、開発フェーズが進むほど失敗時の<br>
 ダメージは大きくなる。<br>
 見込みのないプロジェクトからは極力早期に撤退したほうが傷が浅く済むので、<br>
-要所要所で「プロジェクトを先に進めるか否か (Go / No GO)」の適切な判断を迫られる。<br>
+要所要所で「プロジェクトを先に進めるか否か (Go / No GO)」の適切な判断を<br>
+迫られる。<br>
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="ja"><p lang="ja" dir="ltr">今や１つの新薬を研究開発・上市するまでには、治験費用を含め数千億円かかるとされている。極力早い段階で Go / No Go 判断を適切に下すことで、失敗した場合の痛手を少なくすることが大事だ。</p>&mdash; 創薬ちゃん (@souyakuchan) <a href="https://twitter.com/souyakuchan/status/797086401107927040?ref_src=twsrc%5Etfw">2016年11月11日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-![Go? No Go?](https://user-images.githubusercontent.com/33997698/33484741-fa9a3390-d6e6-11e7-97ef-1beae1e0ecb4.png)
+![Go? No Go?](https://user-images.githubusercontent.com/33997698/33484741-fa9a3390-d6e6-11e7-97ef-1beae1e0ecb4.png)<br>
 創薬をやるかやらないか？<br>
 それは Go! しかないだろう。
