@@ -108,9 +108,8 @@ title: 創薬って何？
 
 開発失敗した場合の損失は多大なものであり、開発フェーズが進むほど失敗時の<br>
 ダメージは大きくなる。<br>
-見込みのないプロジェクトからは極力早期に撤退したほうが傷が浅く済むので、<br>
-要所要所で「プロジェクトを先に進めるか否か (Go / No GO)」の適切な判断を<br>
-迫られる。<br>
+先の見込みのないプロジェクトからは極力早期に撤退したほうが傷が浅く済むので、<br>
+要所要所で「プロジェクトを先に進めるか否か (Go / No GO)」の決断を迫られる。<br>
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="ja"><p lang="ja" dir="ltr">今や１つの新薬を研究開発・上市するまでには、治験費用を含め数千億円かかるとされている。極力早い段階で Go / No Go 判断を適切に下すことで、失敗した場合の痛手を少なくすることが大事だ。</p>&mdash; 創薬ちゃん (@souyakuchan) <a href="https://twitter.com/souyakuchan/status/797086401107927040?ref_src=twsrc%5Etfw">2016年11月11日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
