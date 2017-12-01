@@ -33,10 +33,11 @@ title: 創薬って何？
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="ja"><p lang="ja" dir="ltr">2015 年のノーベル賞は抗寄生虫薬の発見がテーマとなったが、Avermectin と共に受賞対象となったのが Artemisinin だ。クソニンジンというヨモギの仲間から発見された。天然物らしい立体感溢れる構造だな。 <a href="https://t.co/LZQOouQmJG">pic.twitter.com/LZQOouQmJG</a></p>&mdash; 創薬ちゃん (@souyakuchan) <a href="https://twitter.com/souyakuchan/status/839499208088412160?ref_src=twsrc%5Etfw">2017年3月8日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 [抗マラリア薬⚡@souyakuchan](https://twitter.com/i/moments/839516326704009216)
-  
+自然界から発見された薬の古典的代表例だ。  
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">流行りの Pokémon GO をやってみたが、ポケモンより道端の土が気になってしまうな。ちなみに 2015 年にノーベル賞を獲った大村智先生は伊東市の川奈ゴルフ場の土から GET した放線菌という細菌から抗寄生虫薬を発見したんだ。 <a href="https://t.co/QsmTHPwZYh">pic.twitter.com/QsmTHPwZYh</a></p>&mdash; 創薬ちゃん (@souyakuchan) <a href="https://twitter.com/souyakuchan/status/762517894097833985?ref_src=twsrc%5Etfw">2016年8月8日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+天然物創薬での日本人のノーベル賞受賞も記憶に新しいな。  
+採集活動と多大な労力による研究開発の賜物だ。  
 
 
 ## Unmet Medical Needs
