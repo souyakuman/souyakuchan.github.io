@@ -72,7 +72,7 @@ title: 創薬って何？
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="ja"><p lang="ja" dir="ltr">低分子（もしくは生物学的製剤）によって創薬標的に介入可能である場合、その標的は「ドラッガブル (druggable)」であると言う。低分子が結合できるような窪み・ポケット構造があるかどうかという意味で使われることが多いかな。酵素は大抵、活性部位が凹んでいるから低分子で狙いやすい。</p>&mdash; 創薬ちゃん (@souyakuchan) <a href="https://twitter.com/souyakuchan/status/783588612377972737?ref_src=twsrc%5Etfw">2016年10月5日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 創薬標的分子が有する機能に介入するため、標的に特異的に結合する物質を探すことが<br>
-創薬であると言い換えることもできるだろう。<br>
+創薬である、と言い換えることもできるだろう。<br>
 ### Unmet Medical Needs
 生活習慣病やがんといった疾患は罹患者数も多く、治療のニーズが大きいので<br>
 今もホットな分野として盛んに創薬研究開発が行われている。<br>
@@ -88,8 +88,17 @@ title: 創薬って何？
 
 
 ## 創薬にかかるお金
-
-## 創薬にかかる期間
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="ja"><p lang="ja" dir="ltr">圧倒的な売上で市場を席巻する薬はブロックバスター (blockbuster drug) と呼ばれる。決まった定義があるわけではないが、１つの製品で 10 億ドルを超える年間売上が目安とされる。画期的新薬として開発費が１年そこそこで回収できてしまうような製品だな。</p>&mdash; 創薬ちゃん (@souyakuchan) <a href="https://twitter.com/souyakuchan/status/774076001730990080?ref_src=twsrc%5Etfw">2016年9月9日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+上市に成功しブロックバスターともなれば莫大なリターンが期待できるものの、<br>
+創薬研究開発のコストパフォーマンスは実はどんどん悪化している。<br>
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="ja"><p lang="ja" dir="ltr">ムーアの法則というのは Intel 創設者の１人の Moore 氏が 50 年前に唱えた話だな。CPU とか集積回路の集積密度が 18 ~ 24 ヶ月で２倍に進歩するというやつだ。創薬の場合は悲しいことにその逆で、研究開発費が９年で倍になるというのが Eroom の法則だという。</p>&mdash; 創薬ちゃん (@souyakuchan) <a href="https://twitter.com/souyakuchan/status/781887345771458560?ref_src=twsrc%5Etfw">2016年9月30日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="ja"><p lang="ja" dir="ltr">さっきのレビュー (<a href="https://t.co/TvNGkOSP1h">https://t.co/TvNGkOSP1h</a>) にグラフで示されているが、1950 年代は研究開発費 10 億ドルあたりの新薬上市数は数十個はあったのが、2000 年代には 1 個を切るようになってしまった。今や新薬１つの上市に１千億円では不足ということだ。</p>&mdash; 創薬ちゃん (@souyakuchan) <a href="https://twitter.com/souyakuchan/status/781894123833864193?ref_src=twsrc%5Etfw">2016年9月30日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[Eroom の法則⚡@souyakuchan](https://twitter.com/i/moments/790160629956960256)
+  
+しかも開発から上市に至るまでで 10 年単位の期間がかかるのが創薬だ。<br>
 
 ## Go? No Go?
 最後にブログタイトルを回収しておこう。<br>
